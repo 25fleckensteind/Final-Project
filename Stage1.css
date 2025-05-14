@@ -2,3 +2,7 @@
 /* Plan is to have the player choose a location where they will ike to start at and the choices will
 be New York City or Washington D.C.*/
 
+* {
+    font-weight:800;
+    text-align:center;
+}
