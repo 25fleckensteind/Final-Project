@@ -3,6 +3,8 @@
 be New York City or Washington D.C.*/
 
 * {
-    font-weight:800;
+    
     text-align:center;
+    background-color: lightgreen;
+    font-family:fantasy
 }
